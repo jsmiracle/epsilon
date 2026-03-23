@@ -1,0 +1,11 @@
+diagnoses.icd_code,diagnoses.icd_version,admissions.time,admissions.type,patient.gender,patient.age,medications.drug
+sample_564,sample_608,sample_645,sample_936,sample_540,480,sample_866
+sample_540,sample_396,sample_20,sample_975,sample_513,686,sample_760
+sample_115,sample_720,sample_498,sample_697,sample_532,975,sample_984
+sample_356,sample_559,sample_498,sample_134,sample_192,473,sample_945
+sample_881,sample_75,sample_966,sample_911,sample_536,103,sample_291
+sample_929,sample_394,sample_811,sample_565,sample_213,929,sample_468
+sample_863,sample_365,sample_922,sample_796,sample_600,454,sample_873
+sample_7,sample_310,sample_441,sample_684,sample_255,196,sample_756
+sample_221,sample_185,sample_183,sample_88,sample_325,460,sample_130
+sample_0,sample_917,sample_936,sample_411,sample_503,661,sample_109
